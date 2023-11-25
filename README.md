@@ -77,8 +77,8 @@ run the django server and excute the HTML files
             The neighborhood is named after Saint Francis of Assisi, the founder of the Franciscan Order.The neighborhood was originally home to Sri Lankan refugees who were displaced during the Sri Lankan Civil War.
             In recent years, the neighborhood has become increasingly diverse, with people from all over India calling it home. Assisi Nagar is a relatively quiet and peaceful neighborhood. It is home to a variety of schools, shops, and restaurants. The neighborhood is also well-connected to public transportation, making it easy to get around.
             
-</p>
-</body>
+       </p>
+    </body>
 </html>
 
 ## stjosephschool.html code:
