@@ -44,6 +44,7 @@ run the django server and excute the HTML files
 ```
 
 ## glrlab.html code:
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -61,8 +62,10 @@ run the django server and excute the HTML files
         </P>
     </body>
 </html>
+```
 
 ## myhome.html code:
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -80,8 +83,10 @@ run the django server and excute the HTML files
        </p>
     </body>
 </html>
+```
 
 ## stjosephschool.html code:
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -101,8 +106,10 @@ run the django server and excute the HTML files
 </P>
 </body>
 </html>
+```
 
 ## stjudechurch.html:
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -121,8 +128,10 @@ run the django server and excute the HTML files
 </P>
 </body>
 </html>
+```
 
 ## technicalservice.html:
+```html
 <!DOCTYPE html>
 <html>
     <head>
