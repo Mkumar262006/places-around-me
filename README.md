@@ -103,8 +103,8 @@ run the django server and excute the HTML files
          The school's motto is "Education for Life" and it aims to provide students with a holistic education that will help them to develop their intellectual, social, emotional, and spiritual potential. The school has a strong academic record and its students have consistently performed well in board examinations.
          The school has a well-qualified and experienced teaching staff. The school also has a number of facilities, including a library, a computer lab, a science lab, a playground, and a sports field.
          
-</P>
-</body>
+        </P>
+    </body>
 </html>
 ```
 
@@ -125,8 +125,8 @@ run the django server and excute the HTML files
         The church was founded in 1966 by the Franciscans of the parish of Madhavaram, who came to Assisi Nagar to provide shelter and living to poor repatriates from Burma and Sri Lanka.
         The church is a beautiful building with a whitewashed exterior and a red-tiled roof. It has a large nave and a sanctuary that is decorated with statues of saints and scenes from the Bible. The church also has a school, a hospital, and a social service center.
         St. Jude's Church is a popular place of worship for Catholics in Assisi Nagar and the surrounding area. The church holds regular services in Tamil and English. It is open from 6:00 AM to 8:00 PM every day. Mass is celebrated at 6:00 AM and 5:30 PM on weekdays, and at 6:00 AM, 8:00 AM, and 6:00 PM on Sundays.
-</P>
-</body>
+        </P>
+    </body>
 </html>
 ```
 
@@ -146,8 +146,8 @@ run the django server and excute the HTML files
             NITS is accredited to a number of international standards, and it is committed to providing high-quality services that meet the needs of its clients.
             NITS is committed to providing high-quality services that meet the needs of its clients. The company is accredited to a number of international standards, and it has a strong track record of providing reliable and accurate services.
             NITS is a trusted partner for businesses of all sizes, and it is committed to helping its clients succeed.The company's expertise and experience can help businesses to improve their products, processes, and systems, and to comply with regulations.NITS is a valuable resource for businesses that need to test, inspect, or certify their products, processes, or systems. The company's global network of laboratories and offices, its experienced staff, and its commitment to quality make it a leading provider of testing, inspection, and certification services.
-</p>
-</body>
+        </p>
+    </body>
 </html>
 ```
 
