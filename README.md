@@ -41,6 +41,7 @@ run the django server and excute the HTML files
         </map>
     </body>
 </html>
+```
 
 ## glrlab.html code:
 <!DOCTYPE html>
