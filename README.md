@@ -21,6 +21,7 @@ run the django server and excute the HTML files
 
 ## Code:
 ## map.html code:
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -138,6 +139,7 @@ run the django server and excute the HTML files
 </p>
 </body>
 </html>
+```
 
 ## Output:
 ### map output:
