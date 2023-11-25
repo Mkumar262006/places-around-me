@@ -153,7 +153,8 @@ run the django server and excute the HTML files
 
 ## Output:
 ### map output:
-![Output](Manoj-Manali-1.jpg)
+![Screenshot from 2023-11-25 19-59-13](https://github.com/Mkumar262006/places-around-me/assets/147139472/3e7f584a-89bd-4d3d-bef7-097e344e9a3d)
+
 ### glrlab output:
 ![Output](glrlab.png)
 ### school output:
