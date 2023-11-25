@@ -163,4 +163,4 @@ NITS is a valuable resource for businesses that need to test, inspect, or certif
 
 
 ## Result:
-Write your result
+The program is executed successfully.
