@@ -202,17 +202,22 @@ run the django server and excute the HTML files
 
 ## Output:
 ### map output:
-![Output](<Screenshot from 2023-11-25 19-59-13-1.png>)
+![Screenshot from 2023-11-25 19-59-13](https://github.com/Mkumar262006/places-around-me/assets/147139472/d5b9f444-c156-4023-a578-f3767a52744a)
+
 ### glrlab output:
-![Output](glrlab-1.png)
+![glrlab](https://github.com/Mkumar262006/places-around-me/assets/147139472/fb8699ea-46ff-42bf-aff7-45cbbc49a416)
+
 ### school output:
 ![school](https://github.com/Mkumar262006/places-around-me/assets/147139472/11bc85cd-063c-4614-bc98-86ccb3409f2e)
 ### church output:
-![Output](church.png)
+![church](https://github.com/Mkumar262006/places-around-me/assets/147139472/6941c5b9-cbc4-4511-902f-971a853a5970)
+
 ### home output:
-![Output](home.png)
+![home](https://github.com/Mkumar262006/places-around-me/assets/147139472/aaec7988-43eb-47f1-8ad2-22311b5006df)
+
 ### nits output:
-![Output](nits-1.png)
+![nits](https://github.com/Mkumar262006/places-around-me/assets/147139472/2f26c4ec-ef2b-4b7d-862d-f97c8e7ae0f4)
+
 
 
 ## Result:
